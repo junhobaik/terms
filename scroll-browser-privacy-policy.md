@@ -34,3 +34,40 @@
 ▶ 개인정보 보호책임자  
 성명 :Junho Baik  
 연락처 :junhobaik@gmail.com
+
+---
+
+Purpose of Processing Personal Information
+
+‘Scroll Browser’ does not collect or store personal information for any purposes.
+Period of Processing and Retention of Personal Information
+
+Since ‘Scroll Browser’ does not collect or store personal information, there is no period for processing or retention.
+Provision of Personal Information to Third Parties
+
+‘Scroll Browser’ does not provide personal information to third parties.
+Commissioning of Personal Information Processing
+
+‘Scroll Browser’ does not store personal information nor does it commission the processing of such information.
+Rights and Duties of the Data Subject and Legal Representative and the Methods of Exercising Those Rights
+
+As the data subject, users can exercise the following rights regarding personal information protection at any time with ‘Scroll Browser’ (Junho Baik):
+Request to view personal information
+Request correction in case of errors
+Request deletion
+Request to stop processing
+Items of Personal Information Being Processed
+
+None
+Destruction of Personal Information
+
+‘Scroll Browser’ does not collect or store personal information. Therefore, there are no procedures or deadlines for destruction.
+Matters Concerning the Installation, Operation, and Rejection of Automatic Collection of Personal Information
+
+Junho Baik does not use ‘cookies’ to store and retrieve user information.
+Personal Information Protection Officer
+
+Junho Baik (‘Scroll Browser’) is responsible for overseeing personal information processing and handling complaints and damage relief related to personal information processing. The personal information protection officer is designated as follows:
+▶ Personal Information Protection Officer
+Name: Junho Baik
+Contact: junhobaik@gmail.com
